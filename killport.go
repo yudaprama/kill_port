@@ -1,4 +1,4 @@
-package kill_port
+package killport
 
 import (
 	"fmt"
